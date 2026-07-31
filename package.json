@@ -1,0 +1,24 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanewells/js-dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanewells/js-dsa/issues"
+  },
+  "homepage": "https://github.com/lanewells/js-dsa#readme"
+}
